@@ -5,7 +5,7 @@
 Project		: YouTube Watcher
 Module		: watcher
 Purpose   	: Track YouTube channels and download new videos
-Version		: 0.1.7 beta
+Version		: 0.5.2 beta
 Status 		: Development
 
 Modified	:
