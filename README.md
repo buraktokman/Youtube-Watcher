@@ -12,7 +12,7 @@ Track YouTube channels and download new videos.
 
 ### USAGE:
 ------
-`python watcher.py
+`python watcher.py`
 
 **NOTE:** Add channel URLs that you want to trackt o playlist.txt file.
 
