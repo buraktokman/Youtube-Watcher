@@ -14,7 +14,7 @@ Track YouTube channels and download new videos.
 ------
 `python watcher.py`
 
-**NOTE:** Add channel URLs that you want to trackt o playlist.txt file.
+**NOTE:** Add channel URLs that you want to track to **playlist.txt** file before executing the script.
 
 ### Instructions
 ------
